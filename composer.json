@@ -1,14 +1,17 @@
 {
-    "name": "phpforce/common",
+    "name": "jroot-phpforce/common",
     "type": "library",
     "description": "Common library for the PhpForce Salesforce libraries",
-    "keywords": [  "salesforce", "crm", "soap", "force.com", "web services" ],
     "license": "MIT",
     "authors": [
         {
             "name": "David de Boer",
             "email": "david@ddeboer.nl",
             "homepage": "http://ddeboer.nl"
+        },
+        {
+            "name": "Josiah Root",
+            "email": "josiah@tilladelse.com"
         }
     ],
     "require": {
