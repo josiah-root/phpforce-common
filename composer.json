@@ -1,5 +1,5 @@
 {
-    "name": "jroot-phpforce/common",
+    "name": "josiah-root/phpforce-common",
     "type": "library",
     "description": "Common library for the PhpForce Salesforce libraries",
     "license": "MIT",
